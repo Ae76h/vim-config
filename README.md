@@ -1,5 +1,4 @@
-# vim-config
-vim-configurasi auto-complete
+# Vim configurasi auto-complete
 
 # Plug Vim
 
