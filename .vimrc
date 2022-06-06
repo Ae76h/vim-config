@@ -1,3 +1,5 @@
+" // vim-complete via omni bisa juga pake maralla + snippet atau coc 
+
 call plug#begin('~/.vim/plugged/')
 
 Plug 'voldikss/vim-floaterm'
@@ -209,4 +211,3 @@ let g:airline_right_sep = ''
 let g:airline_right_alt_sep = ''
 let g:airline_symbols.branch = ''
 let g:airline_symbols.readonly = ''
-let g:airline_symbols.linenr = '   IOS-Moded  '
