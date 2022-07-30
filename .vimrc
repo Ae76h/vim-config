@@ -1,25 +1,15 @@
-" // vim-complete via omni bisa juga pake maralla + snippet atau coc 
-
+" // yok
 call plug#begin('~/.vim/plugged/')
 
-Plug 'voldikss/vim-floaterm'
-Plug 'arcticicestudio/nord-vim'
-Plug 'pocari/vim-denite-emoji'
 Plug 'davidhalter/jedi-vim'
-Plug 'vim-airline/vim-airline-themes'
 Plug 'ryanoasis/vim-devicons'
 Plug 'rafi/awesome-vim-colorschemes'
 Plug 'preservim/nerdtree'
 Plug 'zchee/deoplete-jedi'
 Plug 'bignimbus/you-are-here.vim'
-Plug 'vim-scripts/indentpython.vim'
-Plug 'dracula/vim', { 'as': 'dracula' }
 Plug 'jiangmiao/auto-pairs'
 Plug 'alvan/vim-closetag'
 Plug 'BrandonRoehl/auto-omni'
-Plug 'nathanaelkane/vim-indent-guides'
-Plug 'aborres/vim-everything'
-Plug 'lambdalisue/battery.vim'
 Plug 'severin-lemaignan/vim-minimap'
 call plug#end()
 nnoremap <C-p> :call VE()<CR>
